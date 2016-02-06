@@ -1,0 +1,48 @@
+Audi
+A Audi 60
+A Audi 100
+A Audi 80
+A Audi 50
+A Audi 200 5T
+A Audi Quattro
+A Audi Coupe GT
+A Audi Sport quattro
+A Audi 90
+A8
+A4
+A3
+A6
+A2
+ 
+BMW
+M3 - F80 Sedan
+M4 - F82 Coupe, F83 Cabriolet
+M5 - F10 Sedan
+M6 - F12 Cabriolet, F13 Coupe, F06 Gran Coupe
+M235i and M235i xDrive - F22 Coupe and F23 Convertible
+M135i and M135i xDrive - F20 5 door hatchback and F21 3 door hatchback
+M550d xDrive - F10 Sedan and F11 Wagon
+ 
+Mercedes
+S W180 - "Ponton"
+S W128 - "Ponton"
+S W111 - "Fintail"
+S W112 - "Fintail"
+S W108 - N/A
+S W116 - S-Class
+S W126 - S-Class
+S W140 - S-Class
+S W220 - S-Class
+S W221 - S-Class
+S W222 - S-Class
+
+Cadillac
+C Eldorado
+C Fleetwood
+C DeVille
+C XLR roadster
+C XLR-V
+C BLS
+C STS
+C STS-V
+C DTS
